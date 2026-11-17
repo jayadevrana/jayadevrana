@@ -26,7 +26,6 @@ A browser charting workstation that runs Pine Script: charts, strategy tester, o
 | [free-pine-script-indicators](https://github.com/jayadevrana/free-pine-script-indicators) | Free Pine v6 indicators and strategies with backtests and webhook-ready alerts | ![](https://img.shields.io/github/stars/jayadevrana/free-pine-script-indicators?style=flat&label=%E2%98%85) |
 | [tradingview-pine-agent](https://github.com/jayadevrana/tradingview-pine-agent) | Agent loop that writes Pine v6 that compiles *and* runs on the first chart push | ![](https://img.shields.io/github/stars/jayadevrana/tradingview-pine-agent?style=flat&label=%E2%98%85) |
 | [pinescript-adaptive-market-suite](https://github.com/jayadevrana/pinescript-adaptive-market-suite) | Adaptive MA, expected-move bands, BOS/CHoCH, order blocks and FVGs in one suite | ![](https://img.shields.io/github/stars/jayadevrana/pinescript-adaptive-market-suite?style=flat&label=%E2%98%85) |
-| [supercharts](https://github.com/jayadevrana/supercharts) | Browser charting terminal for crypto and forex | ![](https://img.shields.io/github/stars/jayadevrana/supercharts?style=flat&label=%E2%98%85) |
 
 **Broker automation**
 
