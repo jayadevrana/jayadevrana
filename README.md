@@ -4,7 +4,7 @@
 
 I build complete trading and automation systems: Pine Script indicators, MQL5 Expert Advisors, TradingView→broker webhook bridges, broker dashboards, AI agents, MCP servers, and deployment-ready full-stack apps.
 
-🌐 [jayadevrana.in](https://jayadevrana.in) · 📺 [YouTube](https://www.youtube.com/@jayadevrana3657) · 📧 bluealgocapital@gmail.com · 📍 Bhubaneswar, India
+🌐 [jayadevrana.in](https://jayadevrana.in) · 📺 [YouTube](https://www.youtube.com/@jayadevranaalgo) · 📧 bluealgocapital@gmail.com · 📍 Bhubaneswar, India
 
 ---
 
