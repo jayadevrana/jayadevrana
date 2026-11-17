@@ -16,10 +16,17 @@ I build complete trading and automation systems: Pine Script indicators, MQL5 Ex
 - **Full-stack products** — Next.js / TypeScript / Tailwind dashboards, FastAPI / Node backends, Postgres / Prisma / Redis / BullMQ, Docker deploys.
 - **AI agents & MCP servers** — multi-agent orchestration, browser/desktop control, local-first agent tooling.
 
+## Products
+
+- **[SuperCharting](https://supercharting.com)** — browser charting workstation that runs Pine Script: charts, strategy tester, optimiser, screener and alerts.
+- **[Free Pine Script Checker](https://supercharting.com/pine-script-checker)** — paste a Pine v6 script; it compiles it, runs it on sample candles and names the line of the first error. No sign-up.
+- **[Free Pine Script indicators](https://jayadevrana.in/free-pine-script-indicators/)** — open-source TradingView indicators and strategies with chart snapshots and honest backtests.
+
 ## Selected repositories
 
 | Repo | What it is |
 |---|---|
+| [free-pine-script-indicators](https://github.com/jayadevrana/free-pine-script-indicators) | Free TradingView Pine Script v6 indicators & strategies with honest backtests |
 | [covenant](https://github.com/jayadevrana/covenant) | Governance & immunity layer for tool-using AI agents (OpenAI Build Week 2026) |
 | [supercharts](https://github.com/jayadevrana/supercharts) | Institutional-grade browser charting terminal for crypto & forex |
 | [tradingview-pine-agent](https://github.com/jayadevrana/tradingview-pine-agent) | Agent engine for zero-error Pine Script v6 on TradingView |
